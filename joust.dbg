@@ -1,0 +1,1886 @@
+---> int main(int, char**) /media/Infinity/dev/BasicGames/b2c/b2c.cpp[2104]
+    Opened input file
+    Opened vars file
+    Parsing ...
+    Processing line 1!
+    (LEX)TK_Integer=1000 YYSTATE=0
+    (LEX)TK_Randomize='RANDOMIZE'
+    Processing line 2!
+    (LEX)TK_Integer=1010 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Got some space characters in a print line.
+        printfield = 1
+        lc         = 'T'
+        yytext     = ' '
+        LastToken  = '303'
+    (LEX)TK_Tab<PrintStmt>='TAB'
+        printfield = 1
+        yytext     = 'TAB'
+        LastToken  = '303'
+        printfield = 3
+        yytext     = '('
+        LastToken  = '318'
+    (LEX)NOTYPE<PrintStmt:(>='('
+    (LEX)TK_Integer(PrintStmt)=26
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x41')'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+        printfield = 5
+        yytext     = '"JOUST"'
+        LastToken  = '59'
+    (LEX)TK_QuoteString(PRINTSTMT)="JOUST"
+    Processing line 3!
+    (LEX)TK_Integer=1020 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Got some space characters in a print line.
+        printfield = 1
+        lc         = 'T'
+        yytext     = ' '
+        LastToken  = '303'
+    (LEX)TK_Tab<PrintStmt>='TAB'
+        printfield = 1
+        yytext     = 'TAB'
+        LastToken  = '303'
+        printfield = 3
+        yytext     = '('
+        LastToken  = '318'
+    (LEX)NOTYPE<PrintStmt:(>='('
+    (LEX)TK_Integer(PrintStmt)=20
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x41')'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+        printfield = 5
+        yytext     = '"CREATIVE COMPUTING"'
+        LastToken  = '59'
+    (LEX)TK_QuoteString(PRINTSTMT)="CREATIVE COMPUTING"
+    Processing line 4!
+    (LEX)TK_Integer=1030 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Got some space characters in a print line.
+        printfield = 1
+        lc         = 'T'
+        yytext     = ' '
+        LastToken  = '303'
+    (LEX)TK_Tab<PrintStmt>='TAB'
+        printfield = 1
+        yytext     = 'TAB'
+        LastToken  = '303'
+        printfield = 3
+        yytext     = '('
+        LastToken  = '318'
+    (LEX)NOTYPE<PrintStmt:(>='('
+    (LEX)TK_Integer(PrintStmt)=18
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x41')'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+        printfield = 5
+        yytext     = '"MORRISTOWN, NEW JERSEY"'
+        LastToken  = '59'
+    (LEX)TK_QuoteString(PRINTSTMT)="MORRISTOWN, NEW JERSEY"
+    Processing line 5!
+    (LEX)TK_Integer=1040 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 6!
+    (LEX)TK_Integer=1050 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 7!
+    (LEX)TK_Integer=1060 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 8!
+    (LEX)TK_Integer=1070 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"WHAT IS YOUR NAME, PLEASE"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="WHAT IS YOUR NAME, PLEASE"
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    Processing line 9!
+    (LEX)TK_Integer=1080 YYSTATE=0
+    (LEX)TK_Input='INPUT'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_SName(normal1)=A$
+    (normal)basiclval.stype='A$'
+    Processing line 10!
+    (LEX)TK_Integer=1085 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 11!
+    (LEX)TK_Integer=1090 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"SIR "'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="SIR "
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    (LEX)TK_SName(PrintStmt)=A$
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+        printfield = 3
+        yytext     = '" YOU ARE A MEDIEVAL KNIGHT IN A JOUSTING TOURNAMENT."'
+        LastToken  = '59'
+    (LEX)TK_QuoteString(PRINTSTMT)=" YOU ARE A MEDIEVAL KNIGHT IN A JOUSTING TOURNAMENT."
+    Processing line 12!
+    (LEX)TK_Integer=1100 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"THE PRIZE TO THE WINNER IS THE PRINCESS' HAND IN MARRIAGE."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="THE PRIZE TO THE WINNER IS THE PRINCESS' HAND IN MARRIAGE."
+    Processing line 13!
+    (LEX)TK_Integer=1110 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"TO WIN, YOU MUST BEAT FOUR OTHER KNIGHTS."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="TO WIN, YOU MUST BEAT FOUR OTHER KNIGHTS."
+    Processing line 14!
+    (LEX)TK_Integer=1120 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"TO JOUST, YOU PICK AN AIMING POINT FOR THE LANCE,"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="TO JOUST, YOU PICK AN AIMING POINT FOR THE LANCE,"
+    Processing line 15!
+    (LEX)TK_Integer=1130 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"AND THEN ONE OF FROM 3 TO 6 DIFFERENT POSSIBLE DEFENCE POSITIONS."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="AND THEN ONE OF FROM 3 TO 6 DIFFERENT POSSIBLE DEFENCE POSITIONS."
+    Processing line 16!
+    (LEX)TK_Integer=1140 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"THE AIMING POINTS ARE:"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="THE AIMING POINTS ARE:"
+    Processing line 17!
+    (LEX)TK_Integer=1150 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"1 - HELM"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="1 - HELM"
+    Processing line 18!
+    (LEX)TK_Integer=1160 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"2 - UPPER LEFT (OF SHIELD)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="2 - UPPER LEFT (OF SHIELD)"
+    Processing line 19!
+    (LEX)TK_Integer=1170 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"3 - UPPER MIDDLE"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="3 - UPPER MIDDLE"
+    Processing line 20!
+    (LEX)TK_Integer=1180 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"4 - UPPER RIGHT"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="4 - UPPER RIGHT"
+    Processing line 21!
+    (LEX)TK_Integer=1190 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"5 - LOWER LEFT"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="5 - LOWER LEFT"
+    Processing line 22!
+    (LEX)TK_Integer=1200 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"6 - LOWER MIDDLE"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="6 - LOWER MIDDLE"
+    Processing line 23!
+    (LEX)TK_Integer=1210 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"7 - LOWER RIGHT"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="7 - LOWER RIGHT"
+    Processing line 24!
+    (LEX)TK_Integer=1220 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"8 - BASE OF SHIELD"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="8 - BASE OF SHIELD"
+    Processing line 25!
+    (LEX)TK_Integer=1230 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 26!
+    (LEX)TK_Integer=1240 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"IF YOU BREAK A LANCE OR LOSE A HELM, YOU WILL BE GIVEN ANOTHER."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="IF YOU BREAK A LANCE OR LOSE A HELM, YOU WILL BE GIVEN ANOTHER."
+    Processing line 27!
+    (LEX)TK_Integer=1250 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"GOOD LUCK, SIR!"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="GOOD LUCK, SIR!"
+    Processing line 28!
+    (LEX)TK_Integer=1260 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 29!
+    (LEX)TK_Integer=1270 YYSTATE=0
+    (LEX)TK_For='FOR'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=A
+    (normal)basiclval.stype='A'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=1 YYSTATE=3
+    (LEX)TK_To='TO'
+    (LEX)TK_Integer=4 YYSTATE=3
+    Processing line 30!
+    (LEX)TK_Integer=1280 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=A
+    (normal)basiclval.stype='A'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1310 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1330 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1350 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1370 YYSTATE=3
+    Processing line 31!
+    (LEX)TK_Integer=1290 YYSTATE=0
+    Processing line 32!
+    (LEX)TK_Integer=1300 YYSTATE=0
+    Processing line 33!
+    (LEX)TK_Integer=1310 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"THIS IS YOUR FIRST JOUST. YOU ARE UP AGAINST THE GOLD KNIGHT."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="THIS IS YOUR FIRST JOUST. YOU ARE UP AGAINST THE GOLD KNIGHT."
+    Processing line 34!
+    (LEX)TK_Integer=1320 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1390 YYSTATE=3
+    Processing line 35!
+    (LEX)TK_Integer=1330 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"THIS IS YOUR SECOND JOUST. YOUR OPPONENT IS THE SILVER KNIGHT."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="THIS IS YOUR SECOND JOUST. YOUR OPPONENT IS THE SILVER KNIGHT."
+    Processing line 36!
+    (LEX)TK_Integer=1340 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1390 YYSTATE=3
+    Processing line 37!
+    (LEX)TK_Integer=1350 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU ARE DOING WELL! YOUR THIRD JOUST IS AGAINST THE RED KNIGHT."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU ARE DOING WELL! YOUR THIRD JOUST IS AGAINST THE RED KNIGHT."
+    Processing line 38!
+    (LEX)TK_Integer=1360 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1390 YYSTATE=3
+    Processing line 39!
+    (LEX)TK_Integer=1370 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"THIS IS YOUR FINAL TEST!! IF YOU WIN THIS ONE, THE PRINCESS"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="THIS IS YOUR FINAL TEST!! IF YOU WIN THIS ONE, THE PRINCESS"
+    Processing line 40!
+    (LEX)TK_Integer=1380 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"IS YOURS!!! THIS FIGHT IS AGAINST THE FIERCE BLACK KNIGHT!!!!"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="IS YOURS!!! THIS FIGHT IS AGAINST THE FIERCE BLACK KNIGHT!!!!"
+    Processing line 41!
+    (LEX)TK_Integer=1390 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Got some space characters in a print line.
+        printfield = 1
+        lc         = '"'
+        yytext     = ' '
+        LastToken  = '303'
+        printfield = 1
+        yytext     = '"YOUR AIMING POINT(1-8) OR 0 {ZERO} FOR HELP"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOUR AIMING POINT(1-8) OR 0 {ZERO} FOR HELP"
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    Processing line 42!
+    (LEX)TK_Integer=1400 YYSTATE=0
+    (LEX)TK_Input='INPUT'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    Processing line 43!
+    (LEX)TK_Integer=1405 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=2530 YYSTATE=3
+    Processing line 44!
+    (LEX)TK_Integer=1410 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x60'<'
+    (LEX)TK_Integer=1 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1390 YYSTATE=3
+    Processing line 45!
+    (LEX)TK_Integer=1420 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x62'>'
+    (LEX)TK_Integer=8 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1390 YYSTATE=3
+    Processing line 46!
+    (LEX)TK_Integer=1430 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU MAY USE ONE OF THESE DEFENCES:"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU MAY USE ONE OF THESE DEFENCES:"
+    Processing line 47!
+    (LEX)TK_Integer=1440 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1450 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1470 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1490 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1520 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1450 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1490 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1450 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1540 YYSTATE=3
+    Processing line 48!
+    (LEX)TK_Integer=1450 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '" 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)=" 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."
+    Processing line 49!
+    (LEX)TK_Integer=1460 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1550 YYSTATE=3
+    Processing line 50!
+    (LEX)TK_Integer=1470 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '" 3 -LEFT LEAN, 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)=" 3 -LEFT LEAN, 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."
+    Processing line 51!
+    (LEX)TK_Integer=1480 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1550 YYSTATE=3
+    Processing line 52!
+    (LEX)TK_Integer=1490 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"1 - LOWER HELM, 2 - RIGHT LEAN, 3 - LEFT LEAN, 4 - STEADY SEAT,"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="1 - LOWER HELM, 2 - RIGHT LEAN, 3 - LEFT LEAN, 4 - STEADY SEAT,"
+    Processing line 53!
+    (LEX)TK_Integer=1500 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '" 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)=" 5 - SHIELD HIGH, 6 - SHIELD LOW."
+    Processing line 54!
+    (LEX)TK_Integer=1510 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1550 YYSTATE=3
+    Processing line 55!
+    (LEX)TK_Integer=1520 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"2 - RIGHT LEAN, 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="2 - RIGHT LEAN, 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."
+    Processing line 56!
+    (LEX)TK_Integer=1530 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1550 YYSTATE=3
+    Processing line 57!
+    (LEX)TK_Integer=1540 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"1 - LOWER HELM, 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="1 - LOWER HELM, 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."
+    Processing line 58!
+    (LEX)TK_Integer=1550 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"WHAT IS YOUR CHOICE"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="WHAT IS YOUR CHOICE"
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    Processing line 59!
+    (LEX)TK_Integer=1560 YYSTATE=0
+    (LEX)TK_Input='INPUT'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=C
+    (normal)basiclval.stype='C'
+    Processing line 60!
+    (LEX)TK_Integer=1570 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=D
+    (normal)basiclval.stype='D'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=INT
+    (normal)basiclval.stype='INT'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x40'('
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=RND
+    (normal)basiclval.stype='RND'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x40'('
+    (LEX)TK_Integer=1 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x41')'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x42'*'
+    (LEX)TK_Integer=8 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x41')'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x43'+'
+    (LEX)TK_Integer=1 YYSTATE=3
+    Processing line 61!
+    (LEX)TK_Integer=1580 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=D
+    (normal)basiclval.stype='D'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1590 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1600 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1610 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1620 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1630 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1640 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1650 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1660 YYSTATE=3
+    Processing line 62!
+    (LEX)TK_Integer=1590 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=C
+    (normal)basiclval.stype='C'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1730 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1790 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Processing line 63!
+    (LEX)TK_Integer=1600 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=C
+    (normal)basiclval.stype='C'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1790 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Processing line 64!
+    (LEX)TK_Integer=1610 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=C
+    (normal)basiclval.stype='C'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1820 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1790 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1880 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1850 YYSTATE=3
+    Processing line 65!
+    (LEX)TK_Integer=1620 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=C
+    (normal)basiclval.stype='C'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1790 YYSTATE=3
+    Processing line 66!
+    (LEX)TK_Integer=1630 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=C
+    (normal)basiclval.stype='C'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1880 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Processing line 67!
+    (LEX)TK_Integer=1640 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=C
+    (normal)basiclval.stype='C'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1880 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1880 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1820 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Processing line 68!
+    (LEX)TK_Integer=1650 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=C
+    (normal)basiclval.stype='C'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1670 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1880 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Processing line 69!
+    (LEX)TK_Integer=1660 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=C
+    (normal)basiclval.stype='C'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1700 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1820 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1820 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1760 YYSTATE=3
+    Processing line 70!
+    (LEX)TK_Integer=1670 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HE MISSED YOU!"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HE MISSED YOU!"
+    Processing line 71!
+    (LEX)TK_Integer=1680 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    Processing line 72!
+    (LEX)TK_Integer=1690 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 73!
+    (LEX)TK_Integer=1700 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HE HIT YOUR SHIELD BUT IT GLANCED OFF"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HE HIT YOUR SHIELD BUT IT GLANCED OFF"
+    Processing line 74!
+    (LEX)TK_Integer=1710 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    Processing line 75!
+    (LEX)TK_Integer=1720 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 76!
+    (LEX)TK_Integer=1730 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HE KNOCKED OFF YOUR HELM"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HE KNOCKED OFF YOUR HELM"
+    Processing line 77!
+    (LEX)TK_Integer=1740 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    Processing line 78!
+    (LEX)TK_Integer=1750 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 79!
+    (LEX)TK_Integer=1760 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HE BROKE HIS LANCE."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HE BROKE HIS LANCE."
+    Processing line 80!
+    (LEX)TK_Integer=1770 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    Processing line 81!
+    (LEX)TK_Integer=1780 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 82!
+    (LEX)TK_Integer=1790 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HE HAS UNSEATED YOU(THUD!)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HE HAS UNSEATED YOU(THUD!)"
+    Processing line 83!
+    (LEX)TK_Integer=1800 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=5 YYSTATE=3
+    Processing line 84!
+    (LEX)TK_Integer=1810 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 85!
+    (LEX)TK_Integer=1820 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HE HAS BROKEN HIS LANCE, INJURED AND UNSEATED YOU (OUCH!)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HE HAS BROKEN HIS LANCE, INJURED AND UNSEATED YOU (OUCH!)"
+    Processing line 86!
+    (LEX)TK_Integer=1830 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=5 YYSTATE=3
+    Processing line 87!
+    (LEX)TK_Integer=1840 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 88!
+    (LEX)TK_Integer=1850 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HE HAS INJURED AND UNSEATED YOU (CRASH!)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HE HAS INJURED AND UNSEATED YOU (CRASH!)"
+    Processing line 89!
+    (LEX)TK_Integer=1860 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=5 YYSTATE=3
+    Processing line 90!
+    (LEX)TK_Integer=1870 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 91!
+    (LEX)TK_Integer=1880 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HE HAS BROKEN HIS LANCE AND UNSEATED YOU (CLANG!)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HE HAS BROKEN HIS LANCE AND UNSEATED YOU (CLANG!)"
+    Processing line 92!
+    (LEX)TK_Integer=1890 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=5 YYSTATE=3
+    Processing line 93!
+    (LEX)TK_Integer=1900 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=E
+    (normal)basiclval.stype='E'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=INT
+    (normal)basiclval.stype='INT'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x40'('
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=RND
+    (normal)basiclval.stype='RND'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x40'('
+    (LEX)TK_Integer=1 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x41')'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x42'*'
+    (LEX)TK_Integer=6 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x41')'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x43'+'
+    (LEX)TK_Integer=1 YYSTATE=3
+    Processing line 94!
+    (LEX)TK_Integer=1910 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=D
+    (normal)basiclval.stype='D'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1920 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1940 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1960 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1970 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1920 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1960 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=1920 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2000 YYSTATE=3
+    Processing line 95!
+    (LEX)TK_Integer=1920 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=E
+    (normal)basiclval.stype='E'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x60'<'
+    (LEX)TK_Integer=4 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 96!
+    (LEX)TK_Integer=1930 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2020 YYSTATE=3
+    Processing line 97!
+    (LEX)TK_Integer=1940 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=E
+    (normal)basiclval.stype='E'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x60'<'
+    (LEX)TK_Integer=3 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 98!
+    (LEX)TK_Integer=1950 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2020 YYSTATE=3
+    Processing line 99!
+    (LEX)TK_Integer=1960 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2020 YYSTATE=3
+    Processing line 100!
+    (LEX)TK_Integer=1970 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=E
+    (normal)basiclval.stype='E'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=1 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 101!
+    (LEX)TK_Integer=1980 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=E
+    (normal)basiclval.stype='E'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=3 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 102!
+    (LEX)TK_Integer=1990 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2020 YYSTATE=3
+    Processing line 103!
+    (LEX)TK_Integer=2000 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=E
+    (normal)basiclval.stype='E'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=2 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 104!
+    (LEX)TK_Integer=2010 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=E
+    (normal)basiclval.stype='E'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=3 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1900 YYSTATE=3
+    Processing line 105!
+    (LEX)TK_Integer=2020 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=E
+    (normal)basiclval.stype='E'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2030 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2040 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2050 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2060 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2070 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2080 YYSTATE=3
+    Processing line 106!
+    (LEX)TK_Integer=2030 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2210 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2240 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2300 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Processing line 107!
+    (LEX)TK_Integer=2040 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2210 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2300 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Processing line 108!
+    (LEX)TK_Integer=2050 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2300 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2210 YYSTATE=3
+    Processing line 109!
+    (LEX)TK_Integer=2060 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2150 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2300 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Processing line 110!
+    (LEX)TK_Integer=2070 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2210 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2300 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2240 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2240 YYSTATE=3
+    Processing line 111!
+    (LEX)TK_Integer=2080 YYSTATE=0
+    (LEX)TK_On='ON'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=B
+    (normal)basiclval.stype='B'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2090 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2270 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2210 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2120 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x44','
+    (LEX)TK_Integer=2180 YYSTATE=3
+    Processing line 112!
+    (LEX)TK_Integer=2090 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU MISSED HIM (HISS!)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU MISSED HIM (HISS!)"
+    Processing line 113!
+    (LEX)TK_Integer=2100 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    Processing line 114!
+    (LEX)TK_Integer=2110 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2330 YYSTATE=3
+    Processing line 115!
+    (LEX)TK_Integer=2120 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU HIT HIS SHIELD BUT GLANCED OFF."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU HIT HIS SHIELD BUT GLANCED OFF."
+    Processing line 116!
+    (LEX)TK_Integer=2130 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    Processing line 117!
+    (LEX)TK_Integer=2140 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2330 YYSTATE=3
+    Processing line 118!
+    (LEX)TK_Integer=2150 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU KNOCKED OFF HIS HELM (CHEERS!)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU KNOCKED OFF HIS HELM (CHEERS!)"
+    Processing line 119!
+    (LEX)TK_Integer=2160 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    Processing line 120!
+    (LEX)TK_Integer=2170 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2330 YYSTATE=3
+    Processing line 121!
+    (LEX)TK_Integer=2180 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU BROKE YOUR LANCE (CRACK...!)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU BROKE YOUR LANCE (CRACK...!)"
+    Processing line 122!
+    (LEX)TK_Integer=2190 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    Processing line 123!
+    (LEX)TK_Integer=2200 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2330 YYSTATE=3
+    Processing line 124!
+    (LEX)TK_Integer=2210 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU UNSEATED HIM(LOUD CHEERS AND MUZZAMS!!)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU UNSEATED HIM(LOUD CHEERS AND MUZZAMS!!)"
+    Processing line 125!
+    (LEX)TK_Integer=2220 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=5 YYSTATE=3
+    Processing line 126!
+    (LEX)TK_Integer=2230 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2330 YYSTATE=3
+    Processing line 127!
+    (LEX)TK_Integer=2240 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU BROKE YOUR LANCE, BUT UNSEATED AND INJURED YOUR FOE."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU BROKE YOUR LANCE, BUT UNSEATED AND INJURED YOUR FOE."
+    Processing line 128!
+    (LEX)TK_Integer=2250 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=5 YYSTATE=3
+    Processing line 129!
+    (LEX)TK_Integer=2260 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2330 YYSTATE=3
+    Processing line 130!
+    (LEX)TK_Integer=2270 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU INJURED AND UNSEATED YOUR OPPONENT."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU INJURED AND UNSEATED YOUR OPPONENT."
+    Processing line 131!
+    (LEX)TK_Integer=2280 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=5 YYSTATE=3
+    Processing line 132!
+    (LEX)TK_Integer=2290 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2330 YYSTATE=3
+    Processing line 133!
+    (LEX)TK_Integer=2300 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU BROKE YOUR LANCE BUT UNSEATED YOUR OPPONENT."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU BROKE YOUR LANCE BUT UNSEATED YOUR OPPONENT."
+    Processing line 134!
+    (LEX)TK_Integer=2310 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=5 YYSTATE=3
+    Processing line 135!
+    (LEX)TK_Integer=2320 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2330 YYSTATE=3
+    Processing line 136!
+    (LEX)TK_Integer=2330 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=2350 YYSTATE=3
+    Processing line 137!
+    (LEX)TK_Integer=2340 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2360 YYSTATE=3
+    Processing line 138!
+    (LEX)TK_Integer=2350 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=2480 YYSTATE=3
+    Processing line 139!
+    (LEX)TK_Integer=2360 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2460 YYSTATE=3
+    Processing line 140!
+    (LEX)TK_Integer=2370 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x60'<'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2390 YYSTATE=3
+    Processing line 141!
+    (LEX)TK_Integer=2380 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=S
+    (normal)basiclval.stype='S'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x62'>'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=T
+    (normal)basiclval.stype='T'
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=2440 YYSTATE=3
+    Processing line 142!
+    (LEX)TK_Integer=2390 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU HAVE WON THIS JOUST."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU HAVE WON THIS JOUST."
+    Processing line 143!
+    (LEX)TK_Integer=2400 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 144!
+    (LEX)TK_Integer=2410 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2420 YYSTATE=3
+    Processing line 145!
+    (LEX)TK_Integer=2420 YYSTATE=0
+    (LEX)TK_Next='NEXT'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=A
+    (normal)basiclval.stype='A'
+    Processing line 146!
+    (LEX)TK_Integer=2430 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2520 YYSTATE=3
+    Processing line 147!
+    (LEX)TK_Integer=2440 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"TOO BAD, YOU LOST. HOPE YOUR INSURANCE WAS PAID UP."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="TOO BAD, YOU LOST. HOPE YOUR INSURANCE WAS PAID UP."
+    Processing line 148!
+    (LEX)TK_Integer=2450 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2500 YYSTATE=3
+    Processing line 149!
+    (LEX)TK_Integer=2460 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"TOO BAD, YOU BOTH LOST. AT LEAST YOUR HONOUR IS INTACT."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="TOO BAD, YOU BOTH LOST. AT LEAST YOUR HONOUR IS INTACT."
+    Processing line 150!
+    (LEX)TK_Integer=2470 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=2500 YYSTATE=3
+    Processing line 151!
+    (LEX)TK_Integer=2480 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOU ARE READY TO TRY AGAIN."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOU ARE READY TO TRY AGAIN."
+    Processing line 152!
+    (LEX)TK_Integer=2490 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1390 YYSTATE=3
+    Processing line 153!
+    (LEX)TK_Integer=2500 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"SORRY, BETTER LUCK NEXT JOUST."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="SORRY, BETTER LUCK NEXT JOUST."
+    Processing line 154!
+    (LEX)TK_Integer=2501 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"DO YOU WISH TO JOUST AGAIN ('Y' OR 'N')"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="DO YOU WISH TO JOUST AGAIN ('Y' OR 'N')"
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    Processing line 155!
+    (LEX)TK_Integer=2502 YYSTATE=0
+    (LEX)TK_Input='INPUT'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_SName(normal1)=B$
+    (normal)basiclval.stype='B$'
+    Processing line 156!
+    (LEX)TK_Integer=2503 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_SName(normal1)=B$
+    (normal)basiclval.stype='B$'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_QuoteString='"Y"'
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1260 YYSTATE=3
+    Processing line 157!
+    (LEX)TK_Integer=2504 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_SName(normal1)=B$
+    (normal)basiclval.stype='B$'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_QuoteString='"N"'
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=9990 YYSTATE=3
+    Processing line 158!
+    (LEX)TK_Integer=2510 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=9999 YYSTATE=3
+    Processing line 159!
+    (LEX)TK_Integer=2520 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HOORAY! YOU ARE THE WINNER, HERE COMES THE BRIDE!"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HOORAY! YOU ARE THE WINNER, HERE COMES THE BRIDE!"
+    Processing line 160!
+    (LEX)TK_Integer=2525 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=9999 YYSTATE=3
+    Processing line 161!
+    (LEX)TK_Integer=2530 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"THE AIMING POINTS ARE:"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="THE AIMING POINTS ARE:"
+    Processing line 162!
+    (LEX)TK_Integer=2540 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"1 - HELM"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="1 - HELM"
+    Processing line 163!
+    (LEX)TK_Integer=2550 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"2 - UPPER LEFT (OF SHIELD)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="2 - UPPER LEFT (OF SHIELD)"
+    Processing line 164!
+    (LEX)TK_Integer=2560 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"3 - UPPER MIDDLE"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="3 - UPPER MIDDLE"
+    Processing line 165!
+    (LEX)TK_Integer=2570 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"4 - UPPER RIGHT"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="4 - UPPER RIGHT"
+    Processing line 166!
+    (LEX)TK_Integer=2580 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"5 - LOWER LEFT"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="5 - LOWER LEFT"
+    Processing line 167!
+    (LEX)TK_Integer=2590 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"6 - LOWER MIDDLE"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="6 - LOWER MIDDLE"
+    Processing line 168!
+    (LEX)TK_Integer=2600 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"7 - LOWER RIGHT"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="7 - LOWER RIGHT"
+    Processing line 169!
+    (LEX)TK_Integer=2610 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"8 - BASE OF SHIELD"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="8 - BASE OF SHIELD"
+    Processing line 170!
+    (LEX)TK_Integer=2620 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 171!
+    (LEX)TK_Integer=2630 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=1390 YYSTATE=3
+    Processing line 172!
+    (LEX)TK_Integer=9990 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 173!
+    (LEX)TK_Integer=9991 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"***************************************************"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="***************************************************"
+    Processing line 174!
+    (LEX)TK_Integer=9992 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 175!
+    (LEX)TK_Integer=9993 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"TOO BAD, THE PRINCESS WAS A VIRGIN!!!!"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="TOO BAD, THE PRINCESS WAS A VIRGIN!!!!"
+    Processing line 176!
+    (LEX)TK_Integer=9994 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Processing line 177!
+    (LEX)TK_Integer=9995 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"***************************************************"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="***************************************************"
+    Processing line 178!
+    (LEX)TK_Integer=9999 YYSTATE=0
+    (LEX)TK_End='END'
+    Processing line 179!
+    Sorting Symbols ...
+    Grab Labels ...
+    Update Vars ...
+    Mark All Routines ...
+    Display Initial Code ...
+    TStatement::_RtnCount-1=0
+    Fixup targets that are on comments.
+    FixupTargets() stmt:'1000	RANDOMIZE'
+    FixupTargets() stmt:'1010	PRINT TAB(26);"JOUST"'
+    FixupTargets() stmt:'1020	PRINT TAB(20);"CREATIVE COMPUTING"'
+    FixupTargets() stmt:'1030	PRINT TAB(18);"MORRISTOWN, NEW JERSEY"'
+    FixupTargets() stmt:'1040	PRINT'
+    FixupTargets() stmt:'1050	PRINT'
+    FixupTargets() stmt:'1060	PRINT'
+    FixupTargets() stmt:'1070	PRINT"WHAT IS YOUR NAME, PLEASE";'
+    FixupTargets() stmt:'1080	INPUT A$'
+    FixupTargets() stmt:'1085	PRINT'
+    FixupTargets() stmt:'1090	PRINT"SIR ";A$;" YOU ARE A MEDIEVAL KNIGHT IN A JOUSTING TOURNAMENT."'
+    FixupTargets() stmt:'1100	PRINT"THE PRIZE TO THE WINNER IS THE PRINCESS' HAND IN MARRIAGE."'
+    FixupTargets() stmt:'1110	PRINT"TO WIN, YOU MUST BEAT FOUR OTHER KNIGHTS."'
+    FixupTargets() stmt:'1120	PRINT"TO JOUST, YOU PICK AN AIMING POINT FOR THE LANCE,"'
+    FixupTargets() stmt:'1130	PRINT"AND THEN ONE OF FROM 3 TO 6 DIFFERENT POSSIBLE DEFENCE POSITIONS."'
+    FixupTargets() stmt:'1140	PRINT"THE AIMING POINTS ARE:"'
+    FixupTargets() stmt:'1150	PRINT"1 - HELM"'
+    FixupTargets() stmt:'1160	PRINT"2 - UPPER LEFT (OF SHIELD)"'
+    FixupTargets() stmt:'1170	PRINT"3 - UPPER MIDDLE"'
+    FixupTargets() stmt:'1180	PRINT"4 - UPPER RIGHT"'
+    FixupTargets() stmt:'1190	PRINT"5 - LOWER LEFT"'
+    FixupTargets() stmt:'1200	PRINT"6 - LOWER MIDDLE"'
+    FixupTargets() stmt:'1210	PRINT"7 - LOWER RIGHT"'
+    FixupTargets() stmt:'1220	PRINT"8 - BASE OF SHIELD"'
+    FixupTargets() stmt:'1230	PRINT'
+    FixupTargets() stmt:'1240	PRINT"IF YOU BREAK A LANCE OR LOSE A HELM, YOU WILL BE GIVEN ANOTHER."'
+    FixupTargets() stmt:'1250	PRINT"GOOD LUCK, SIR!"'
+    FixupTargets() stmt:'1260	PRINT'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1270	FOR A = 1 TO 4'
+    FixupTargets() stmt:'1280	ON A GOTO 1310,1330,1350,1370'
+    FixupTargets() stmt:'1290	REM OFF YOU GO TO THE FOUR JOUSTS'
+    FixupTargets() stmt:'1300	REM ------------------------------------------------'
+    FixupTargets() stmt:'1310	PRINT"THIS IS YOUR FIRST JOUST. YOU ARE UP AGAINST THE GOLD KNIGHT."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1320	GOTO 1390'
+    FixupTargets() stmt:'1330	PRINT"THIS IS YOUR SECOND JOUST. YOUR OPPONENT IS THE SILVER KNIGHT."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1340	GOTO 1390'
+    FixupTargets() stmt:'1350	PRINT"YOU ARE DOING WELL! YOUR THIRD JOUST IS AGAINST THE RED KNIGHT."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1360	GOTO 1390'
+    FixupTargets() stmt:'1370	PRINT"THIS IS YOUR FINAL TEST!! IF YOU WIN THIS ONE, THE PRINCESS"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1380	PRINT"IS YOURS!!! THIS FIGHT IS AGAINST THE FIERCE BLACK KNIGHT!!!!"'
+    FixupTargets() stmt:'1390	PRINT "YOUR AIMING POINT(1-8) OR 0 {ZERO} FOR HELP";'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1400	INPUT B'
+    FixupTargets() stmt:'1405	IF B = 0 THEN 2530'
+    FixupTargets() stmt:'1410	IF B < 1 THEN 1390'
+    FixupTargets() stmt:'1420	IF B > 8 THEN 1390'
+    FixupTargets() stmt:'1430	PRINT"YOU MAY USE ONE OF THESE DEFENCES:"'
+    FixupTargets() stmt:'1440	ON B  GOTO 1450,1470,1490,1520,1450,1490,1450,1540'
+    FixupTargets() stmt:'1450	PRINT" 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1460	GOTO 1550'
+    FixupTargets() stmt:'1470	PRINT" 3 -LEFT LEAN, 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1480	GOTO 1550'
+    FixupTargets() stmt:'1490	PRINT"1 - LOWER HELM, 2 - RIGHT LEAN, 3 - LEFT LEAN, 4 - STEADY SEAT,"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1500	PRINT" 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+    FixupTargets() stmt:'1510	GOTO 1550'
+    FixupTargets() stmt:'1520	PRINT"2 - RIGHT LEAN, 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1530	GOTO 1550'
+    FixupTargets() stmt:'1540	PRINT"1 - LOWER HELM, 4 - STEADY SEAT, 5 - SHIELD HIGH, 6 - SHIELD LOW."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1550	PRINT"WHAT IS YOUR CHOICE";'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1560	INPUT C'
+    FixupTargets() stmt:'1570	D=INT(RND(1)*8)+1'
+    FixupTargets() stmt:'1580	ON D GOTO 1590,1600,1610,1620,1630,1640,1650,1660'
+    FixupTargets() stmt:'1590	ON C GOTO 1670,1670,1670,1730,1790,1670'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1600	ON C GOTO 1790,1760,1670,1760,1760,1670'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1610	ON C GOTO 1820,1790,1700,1760,1880,1850'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1620	ON C GOTO 1700,1670,1760,1700,1700,1790'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1630	ON C GOTO 1760,1880,1670,1760,1670,1760'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1640	ON C GOTO 1880,1700,1760,1880,1820,1760'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1650	ON C GOTO 1700,1670,1880,1700,1700,1700'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1660	ON C GOTO 1760,1700,1820,1760,1820,1760'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1670	PRINT"HE MISSED YOU!"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1680	S=0'
+    FixupTargets() stmt:'1690	GOTO 1900'
+    FixupTargets() stmt:'1700	PRINT"HE HIT YOUR SHIELD BUT IT GLANCED OFF"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1710	S=0'
+    FixupTargets() stmt:'1720	GOTO 1900'
+    FixupTargets() stmt:'1730	PRINT"HE KNOCKED OFF YOUR HELM"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1740	S=0'
+    FixupTargets() stmt:'1750	GOTO 1900'
+    FixupTargets() stmt:'1760	PRINT"HE BROKE HIS LANCE."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1770	S=0'
+    FixupTargets() stmt:'1780	GOTO 1900'
+    FixupTargets() stmt:'1790	PRINT"HE HAS UNSEATED YOU(THUD!)"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1800	S=5'
+    FixupTargets() stmt:'1810	GOTO 1900'
+    FixupTargets() stmt:'1820	PRINT"HE HAS BROKEN HIS LANCE, INJURED AND UNSEATED YOU (OUCH!)"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1830	S=5'
+    FixupTargets() stmt:'1840	GOTO 1900'
+    FixupTargets() stmt:'1850	PRINT"HE HAS INJURED AND UNSEATED YOU (CRASH!)"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1860	S=5'
+    FixupTargets() stmt:'1870	GOTO 1900'
+    FixupTargets() stmt:'1880	PRINT"HE HAS BROKEN HIS LANCE AND UNSEATED YOU (CLANG!)"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1890	S=5'
+    FixupTargets() stmt:'1900	E=INT(RND(1)*6)+1'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1910	ON D GOTO 1920,1940,1960,1970,1920,1960,1920,2000'
+    FixupTargets() stmt:'1920	IF E<4 THEN 1900'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1930	GOTO 2020'
+    FixupTargets() stmt:'1940	IF E<3 THEN 1900'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1950	GOTO 2020'
+    FixupTargets() stmt:'1960	GOTO 2020'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1970	IF E=1 THEN 1900'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1980	IF E=3 THEN 1900'
+    FixupTargets() stmt:'1990	GOTO 2020'
+    FixupTargets() stmt:'2000	IF E=2 THEN 1900'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2010	IF E=3 THEN 1900'
+    FixupTargets() stmt:'2020	ON E GOTO 2030,2040,2050,2060,2070,2080'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2030	ON B GOTO 2090,2210,2240,2120,2180,2300,2120,2180'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2040	ON B GOTO 2090,2180,2210,2090,2300,2120,2090,2120'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2050	ON B GOTO 2090,2090,2120,2180,2090,2180,2300,2210'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2060	ON B GOTO 2150,2180,2180,2120,2180,2300,2120,2180'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2070	ON B GOTO 2210,2180,2300,2120,2090,2240,2120,2240'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2080	ON B GOTO 2090,2090,2270,2210,2180,2180,2120,2180'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2090	PRINT"YOU MISSED HIM (HISS!)"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2100	T=0'
+    FixupTargets() stmt:'2110	GOTO 2330'
+    FixupTargets() stmt:'2120	PRINT"YOU HIT HIS SHIELD BUT GLANCED OFF."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2130	T=0'
+    FixupTargets() stmt:'2140	GOTO 2330'
+    FixupTargets() stmt:'2150	PRINT"YOU KNOCKED OFF HIS HELM (CHEERS!)"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2160	T=0'
+    FixupTargets() stmt:'2170	GOTO 2330'
+    FixupTargets() stmt:'2180	PRINT"YOU BROKE YOUR LANCE (CRACK...!)"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2190	T=0'
+    FixupTargets() stmt:'2200	GOTO 2330'
+    FixupTargets() stmt:'2210	PRINT"YOU UNSEATED HIM(LOUD CHEERS AND MUZZAMS!!)"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2220	T=5'
+    FixupTargets() stmt:'2230	GOTO 2330'
+    FixupTargets() stmt:'2240	PRINT"YOU BROKE YOUR LANCE, BUT UNSEATED AND INJURED YOUR FOE."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2250	T=5'
+    FixupTargets() stmt:'2260	GOTO 2330'
+    FixupTargets() stmt:'2270	PRINT"YOU INJURED AND UNSEATED YOUR OPPONENT."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2280	T=5'
+    FixupTargets() stmt:'2290	GOTO 2330'
+    FixupTargets() stmt:'2300	PRINT"YOU BROKE YOUR LANCE BUT UNSEATED YOUR OPPONENT."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2310	T=5'
+    FixupTargets() stmt:'2320	GOTO 2330'
+    FixupTargets() stmt:'2330	IF S = T THEN 2350'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2340	GOTO 2360'
+    FixupTargets() stmt:'2350	IF S = 0 THEN 2480'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2360	IF S = T GOTO 2460'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2370	IF S < T GOTO 2390'
+    FixupTargets() stmt:'2380	IF S > T THEN 2440'
+    FixupTargets() stmt:'2390	PRINT"YOU HAVE WON THIS JOUST."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2400	PRINT'
+    FixupTargets() stmt:'2410	GOTO 2420'
+    FixupTargets() stmt:'2420	NEXT A'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2430	GOTO 2520'
+    FixupTargets() stmt:'2440	PRINT"TOO BAD, YOU LOST. HOPE YOUR INSURANCE WAS PAID UP."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2450	GOTO 2500'
+    FixupTargets() stmt:'2460	PRINT"TOO BAD, YOU BOTH LOST. AT LEAST YOUR HONOUR IS INTACT."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2470	GOTO 2500'
+    FixupTargets() stmt:'2480	PRINT"YOU ARE READY TO TRY AGAIN."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2490	GOTO 1390'
+    FixupTargets() stmt:'2500	PRINT"SORRY, BETTER LUCK NEXT JOUST."'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2501	PRINT"DO YOU WISH TO JOUST AGAIN ('Y' OR 'N')";'
+    FixupTargets() stmt:'2502	INPUT B$'
+    FixupTargets() stmt:'2503	IF B$ = "Y" THEN 1260'
+    FixupTargets() stmt:'2504	IF B$ = "N" THEN 9990'
+    FixupTargets() stmt:'2510	GOTO 9999'
+    FixupTargets() stmt:'2520	PRINT"HOORAY! YOU ARE THE WINNER, HERE COMES THE BRIDE!"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2525	GOTO 9999'
+    FixupTargets() stmt:'2530	PRINT"THE AIMING POINTS ARE:"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'2540	PRINT"1 - HELM"'
+    FixupTargets() stmt:'2550	PRINT"2 - UPPER LEFT (OF SHIELD)"'
+    FixupTargets() stmt:'2560	PRINT"3 - UPPER MIDDLE"'
+    FixupTargets() stmt:'2570	PRINT"4 - UPPER RIGHT"'
+    FixupTargets() stmt:'2580	PRINT"5 - LOWER LEFT"'
+    FixupTargets() stmt:'2590	PRINT"6 - LOWER MIDDLE"'
+    FixupTargets() stmt:'2600	PRINT"7 - LOWER RIGHT"'
+    FixupTargets() stmt:'2610	PRINT"8 - BASE OF SHIELD"'
+    FixupTargets() stmt:'2620	PRINT'
+    FixupTargets() stmt:'2630	GOTO 1390'
+    FixupTargets() stmt:'9990	PRINT '
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'9991	PRINT"***************************************************"'
+    FixupTargets() stmt:'9992	PRINT'
+    FixupTargets() stmt:'9993	PRINT"TOO BAD, THE PRINCESS WAS A VIRGIN!!!!"'
+    FixupTargets() stmt:'9994	PRINT'
+    FixupTargets() stmt:'9995	PRINT"***************************************************"'
+    FixupTargets() stmt:'9999	END'
+      Target is GOSUB or GOTO
+    Finished FixupTargets
+    Split Overlapping Subroutines ...
+    Straighten Overlapping Subroutines ...
+    Renumber Source ...
+    Display Empty Code Ranges ...
+    Display Symbol Table ...
+    Display of final 'clean' BASIC listing ...
+    TStatement::_RtnCount-1=0
+    Finished!!!
+<--- int main(int, char**) /media/Infinity/dev/BasicGames/b2c/b2c.cpp[2210]
